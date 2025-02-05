@@ -58,7 +58,22 @@ Internship (June 2024 – August 2024)
 ### ☁ Cloud & Storage **
 <div>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?&style=flat-square&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?&style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20SageMaker-%23FF9900.svg?&style=flat-square&logo=amazonsagemaker&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20ML-%230072C6.svg?&style=flat-square&logo=azuremachinelearning&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white" />
+</div>
+
+### 🛠 Data Engineering
+<div>
+<img src="https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?&style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?&style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Glue-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Kinesis-%23FF9900.svg?&style=flat-square&logo=amazonkinesis&logoColor=white" />
 </div>
 
 ### 🌐 Web Development
