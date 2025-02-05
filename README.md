@@ -30,7 +30,7 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 </div>
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 Machine Learning & Deep Learning ****
 <div>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white">
@@ -38,7 +38,7 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
 </div>
 
-### 🔧 MLOps & Model Deployment
+### 🔧 MLOps & Model Deployment ****
 <div>
 <img src="https://img.shields.io/badge/MLflow-%230077C8.svg?&style=flat-square&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/DVC-%230C4A6E.svg?&style=flat-square&logo=dataversioncontrol&logoColor=white" />
@@ -47,7 +47,7 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=flat-square&logo=fastapi&logoColor=white" />
 </div>
 
-### 🛠 DevOps & Infrastructure
+### 🛠 DevOps & Infrastructure ***
 <div>
 <img src="https://img.shields.io/badge/Docker-%230081CB.svg?&style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
@@ -55,7 +55,7 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </div>
 
-### ☁ Cloud & Storage
+### ☁ Cloud & Storage **
 <div>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white" />
