@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 
 ## 👨‍🎓 Education
 **Inha University**  
-*B.Eng. in Computer Engineering* (March 2022 – August 2024)  
+*B.Eng. in Computer Engineering* (March 2022 – August 2024) 
+
+**SKT FLY AI challenge**   
+K-Digital Training (December 2024 - February 2025)
 
 ## 💼 Experience
-**HD Hyundai Heavy Industries (HD Korea Shipbuilding & Offshore Engineering)**  
+**HD Hyundai 한국조선해양**  
 Internship (June 2024 – August 2024)  
 
 ## 💻 Stack
