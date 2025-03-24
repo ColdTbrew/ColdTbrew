@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 # CHOI SEUNGHYUK
 
+<side>
+ML/AI 기술을 기존 서비스에 적용시켜 사용자 편의와 비용 절감을 이루어내는 것이 저의 목표입니다.
+</side>
+
+
 ## 👨‍🎓 Education
 **Inha University**  
 *B.Eng. in Computer Engineering* (March 2022 – August 2024) 
@@ -94,6 +99,11 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
+
+# Stats
+![ColdTbrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdTbrew&show_icons=true&theme=onedark) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shchoi8687)](https://solved.ac/shchoi8687)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdTbrew&layout=compact&theme=onedark)
 
 ## 🏆 수상 내역
 
