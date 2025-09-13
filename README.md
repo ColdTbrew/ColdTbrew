@@ -38,7 +38,7 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 </div>
 
-### 🧠 Machine Learning & Deep Learning ****
+### 🧠 Machine Learning & Deep Learning
 <div>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white">
@@ -46,7 +46,14 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
 </div>
 
-### 🔧 MLOps & Model Deployment ****
+### AI
+<div>
+  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+</div>
+
+### 🔧 MLOps & Model Deployment
 <div>
 <img src="https://img.shields.io/badge/MLflow-%230077C8.svg?&style=flat-square&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/DVC-%230C4A6E.svg?&style=flat-square&logo=dataversioncontrol&logoColor=white" />
@@ -55,43 +62,37 @@ Internship (June 2024 – August 2024)
 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=flat-square&logo=fastapi&logoColor=white" />
 </div>
 
-### 🛠 DevOps & Infrastructure ***
+### 🛠 DevOps & Infrastructure
 <div>
 <img src="https://img.shields.io/badge/Docker-%230081CB.svg?&style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </div>
 
-### ☁ Cloud & Storage **
+### ☁ Cloud & Storage
 <div>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?&style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?&style=flat-square&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20SageMaker-%23FF9900.svg?&style=flat-square&logo=amazonsagemaker&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20ML-%230072C6.svg?&style=flat-square&logo=azuremachinelearning&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-%230072C6.svg?&style=flat-square&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### 🛠 Data Engineering
 <div>
 <img src="https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?&style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?&style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Glue-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Kinesis-%23FF9900.svg?&style=flat-square&logo=amazonkinesis&logoColor=white" />
 </div>
 
 ### 🌐 Web Development
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
 </div>
 
 ### Specialized Languages
