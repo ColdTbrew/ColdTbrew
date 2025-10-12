@@ -26,7 +26,7 @@ ML/AI 기술을 기존 서비스에 적용시켜 사용자 편의와 비용 절�
 **SKT FLY AI challenge**   
 K-Digital Training (December 2024 - February 2025)
 
-**Goorm Cloud Engineerin**  
+**Goorm Cloud Engineering**  
 K-Digital Training (July 2025 - September 2025)
 
 ## 💼 Experience
