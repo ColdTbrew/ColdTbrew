@@ -33,7 +33,8 @@ K-Digital Training (July 2025 - September 2025)
 **HD Hyundai 한국조선해양**  
 Internship (June 2024 – August 2024)  
 
-**Diquest 다이퀘스트**
+**Diquest 다이퀘스트**  
+AI 연구원 
 Full time (November 2025 - )
 
 ## 💻 Stack
