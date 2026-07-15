@@ -109,9 +109,10 @@ Full time (November 2025 - )
 </div>
 
 # Stats
-![ColdTbrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdTbrew&show_icons=true&theme=onedark) 
+[![Tokscale Stats](https://tokscale.ai/api/embed/ColdTbrew/svg?view=3d&theme=light)](https://tokscale.ai/u/ColdTbrew)  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shchoi8687)](https://solved.ac/shchoi8687)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdTbrew&layout=compact&theme=onedark)
+
 
 ## 🏆 수상 내역
 
