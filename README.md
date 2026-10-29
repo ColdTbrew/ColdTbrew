@@ -37,6 +37,17 @@ Internship (June 2024 – August 2024)
 AI 연구원 
 Full time (November 2025 - )
 
+## 🚀 Projects
+
+**maskara (RLMask)** · Ambition for Korea 해커톤 (2026.10)  
+[GitHub](https://github.com/return-to-the-state/rlmask) · [Live demo](https://rl-mask.vercel.app)  
+민감정보를 `[REDACTED]`로 지우는 대신 일관된 합성 페르소나로 바꿔서, 병원·은행 데이터를 AI 학습에 쓸 수 있게 만드는 온프레미스 마스킹 툴
+- **담당: 로컬 모델 서빙** · OCR, PII 필터, 얼굴 탐지·리페인팅 모델을 GPU 서버에 올려 파이프라인에 연결
+- 텍스트 DB · PDF · 사진을 한 번에 처리하는 3-lane 파이프라인
+- 같은 사람은 테이블·문서·이미지 어디서든 같은 페르소나로 치환, 날짜 간격과 테이블 관계 보존
+- 원본 잔존 여부와 데이터 유용성을 수치로 보여주는 Privacy & Utility 리포트
+- Stack: Next.js 16 · TypeScript · OpenAI privacy-filter · YuNet · SD 1.5 Inpainting
+
 ## 💻 Stack
 
 ### 🚀 Core Languages & Frameworks
